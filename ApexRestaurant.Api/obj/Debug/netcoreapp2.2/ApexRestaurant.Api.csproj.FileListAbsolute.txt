@@ -1,6 +1,0 @@
-E:\Apex Course\7th sem\dot net\ApexRestaurant\ApexRestaurant.Api\obj\Debug\netcoreapp2.2\ApexRestaurant.Api.csprojAssemblyReference.cache
-E:\Apex Course\7th sem\dot net\ApexRestaurant\ApexRestaurant.Api\obj\Debug\netcoreapp2.2\ApexRestaurant.Api.csproj.CoreCompileInputs.cache
-E:\Apex Course\7th sem\dot net\ApexRestaurant\ApexRestaurant.Api\obj\Debug\netcoreapp2.2\ApexRestaurant.Api.RazorAssemblyInfo.cache
-E:\Apex Course\7th sem\dot net\ApexRestaurant\ApexRestaurant.Api\obj\Debug\netcoreapp2.2\ApexRestaurant.Api.RazorAssemblyInfo.cs
-E:\Apex Course\7th sem\dot net\ApexRestaurant\ApexRestaurant.Api\obj\Debug\netcoreapp2.2\ApexRestaurant.Api.AssemblyInfoInputs.cache
-E:\Apex Course\7th sem\dot net\ApexRestaurant\ApexRestaurant.Api\obj\Debug\netcoreapp2.2\ApexRestaurant.Api.AssemblyInfo.cs
