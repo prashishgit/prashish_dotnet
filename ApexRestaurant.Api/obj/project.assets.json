@@ -12137,7 +12137,7 @@
       "Microsoft.Extensions.Logging >= 2.2.0",
       "Microsoft.Extensions.Logging.Abstractions >= 2.2.0",
       "Microsoft.Extensions.Options >= 2.2.0",
-      "Microsoft.Extensions.Primitives",
+      "Microsoft.Extensions.Primitives >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -12250,7 +12250,7 @@
           },
           "Microsoft.Extensions.Primitives": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[2.2.0, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
