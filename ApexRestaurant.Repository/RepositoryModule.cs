@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using ApexRestaurant.Repository.RCustomer;
+using ApexRestaurant.Repository.RMenu;
 
 namespace ApexRestaurant.Repository
 {
@@ -10,6 +11,7 @@ namespace ApexRestaurant.Repository
         {
             services.AddDbContext<RestaurantContext>(options => options.UseSqlServer(connection, builder => builder.MigrationsAssembly(migrationsAssembly)));
             services.AddTransient<ICustomerRepository, CustomerRepository>();
+            services.AddTransient<IMenuRepository, MenuRepository>();
         }
     }
 }

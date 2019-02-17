@@ -8,6 +8,7 @@ namespace ApexRestaurant.Repository
         {
         }
         public DbSet<Customer> Customers { get; set; }
+        public DbSet<Menu> Menus { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
